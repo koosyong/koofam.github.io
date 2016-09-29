@@ -8,3 +8,10 @@ include: [".well-known"]
 gems:
   - jekyll-redirect-from
   - rdiscount
+prose:
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
