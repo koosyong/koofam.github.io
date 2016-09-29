@@ -11,4 +11,3 @@ gems:
 prose:
   rooturl: '_posts'
   siteurl: 'http://koofam.github.io/'
-  relativeLinks: 'http://koofam.github.io/links.jsonp'
